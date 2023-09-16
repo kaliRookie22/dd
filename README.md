@@ -1,5 +1,6 @@
 # Cwebscanner
 快速扫描C段web应用，获取请求状态code、server、title信息
+
 针对python3重修改过的
         
        支持域名或ip地址形式，默认扫描80端口
